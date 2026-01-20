@@ -10,7 +10,7 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 # KONFIGURASI DASAR
 # ----------------------------------------------------
 st.set_page_config(page_title="XoL Reinstatement (Simple)", layout="wide", page_icon="📊")
-st.title("Pricing Excess of Loss dengan Reinstatement – Versi Ringan 📊")
+st.title("Pricing Excess of Loss dengan Reinstatement 📊")
 
 MAX_ROWS_DISPLAY = 500  # batas tampilan tabel di UI supaya browser tidak berat
 
